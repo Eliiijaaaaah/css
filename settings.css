@@ -1,3 +1,5 @@
 <style>
-  let mainColor = #ff0000;
+  body {
+    --main-color: #ff0000;
+  }
 </style>
